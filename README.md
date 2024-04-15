@@ -1,7 +1,7 @@
 ### 👦 À propos...
 
-Salut 👋 ! Je suis étudiant en 2ème année de Développement Informatique au CESI de Brest, admissible pour la formation de Concepteur Développeur d'Application je suis en recherche d'alternance pour octobre 2024. 
-Cette année je travail chez Luxior Assurance 🏢.
+Salut 👋 ! Je suis étudiant en 2ème année de Développement Informatique au CESI de Brest, admissible pour la formation de Concepteur Développeur d'Application pour l'année scolaire 2024-2025.
+Cette année je travaille chez Luxior Assurance 🏢.
 
 
 ### 📭 Contact
@@ -21,6 +21,9 @@ Cette année je travail chez Luxior Assurance 🏢.
 2022 - 2025 : CESI - Brest / Développeur Informatique / Titre RNCP niveau 5 / Alternance
 
 2019 - 2022 : Lycée Jean Macé - Lanester / Bac Mathématiques et N.S.I. mention assez bien
+
+<!-- ### 📂 Projets
+
 
 <!--
 **apersis/apersis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
