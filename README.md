@@ -49,3 +49,18 @@ Le projet est terminé mais nous n'avons pas pu intégrer toutes les modificatio
 <p align="center">
 	<a href="https://github.com/apersis/vide-grenier"><img src="https://github.com/apersis/vide-grenier/blob/develop/CapturePageAccueil.PNG?raw=true" width="500"></a>
 </p>
+
+## [🗼 Tours de Monoï *(2021)*](https://github.com/apersis/tour-monoi)
+
+Ceci est un projet scolaire de mon année de terminale en cours de NSI. C'est un petit jeu reprenant le jeu de reflexion et d'eveil des tours de Hanoï.
+
+Il a été codé en Python en decembre 2021. 
+L'utilisateur interragis grace à l'invite de commande, pour l'affichage graphique il est fait grace à la bibliothèque Turtle. 
+Le jeu est personnalisable, en début de partie on demande au joueur combien de tours et d'anneaux souhaite-t-il.
+L'utilisateur spécifie ensuite la tour de départ et d'arrivée du prochain anneau à bouger, lorsque la partie est finie le jeu demande si l'on souhaite recommencer une nouvelle partie.
+
+Le projet est terminé et jouable.
+
+<p align="center">
+	<a href="https://github.com/apersis/tour-monoi"><img src="https://github.com/apersis/tour-monoi/blob/main/CaptureTourDeMonoi.PNG?raw=true" width="500"></a>
+</p>
