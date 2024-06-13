@@ -40,12 +40,12 @@ Le projet n'est pas terminé mais il est jouable.
 
 ## [📦 Vide grenier en ligne *(2024)*](https://github.com/apersis/vide-grenier)
 
-Ceci est le troisième projet scolaire de la deuxième année de Développeur Informatique au CESI. C'est un site web en PHP à debugger, projet réalisé en colaboration avec [Illona Hardy](https://github.com/Illona02) et [Tom Le Roux](https://github.com/LeRouxTom).
+Ceci est le troisième projet scolaire de la deuxième année de Développeur Informatique au CESI. C'est un site web en PHP à debugger, projet réalisé en colaboration avec [Illona Hardy](https://github.com/Illona02) et [Tom Le Roux](https://github.com/LeRouxTom) en avril-mai-juin 2024.
 
 Le principe du site est de concevoir un projet web semblable a un site de e-commerce, afin que les clients puissent mettre en ligne des objets a donner. Ils indiquent leur villes pour que les autre utilisateurs puissent regarder les objets donnés autour d'eux.
 
 Le projet est terminé mais nous n'avons pas pu intégrer toutes les modifications que nous souhaitions.
 
 <p align="center">
-	<a href="https://github.com/apersis/Gourgandine-Jill"><img src="https://github.com/apersis/vide-grenier/blob/develop/CapturePageAccueil.PNG?raw=true" width="500"></a>
+	<a href="https://github.com/apersis/vide-grenier"><img src="https://github.com/apersis/vide-grenier/blob/develop/CapturePageAccueil.PNG?raw=true" width="500"></a>
 </p>
