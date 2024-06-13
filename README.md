@@ -59,7 +59,7 @@ L'utilisateur interragis grace à l'invite de commande, pour l'affichage graphiq
 Le jeu est personnalisable, en début de partie on demande au joueur combien de tours et d'anneaux souhaite-t-il.
 L'utilisateur spécifie ensuite la tour de départ et d'arrivée du prochain anneau à bouger, lorsque la partie est finie le jeu demande si l'on souhaite recommencer une nouvelle partie.
 
-Le projet est terminé et jouable au lien suivant : https://replit.com/@apersis/Tour-de-Monoi-v30.
+Le projet est terminé et jouable, vous retrouverez le lien du projet original ici : https://replit.com/@apersis/Tour-de-Monoi-v30.
 
 <p align="center">
 	<a href="https://github.com/apersis/tour-monoi"><img src="https://github.com/apersis/tour-monoi/blob/main/CaptureTourDeMonoi.PNG?raw=true" width="500"></a>
