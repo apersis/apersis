@@ -1,4 +1,4 @@
-# 👦🏻 À propos...
+# 👨‍💻 À propos...
 
 Salut 👋 ! Je suis étudiant en 2ème année de Développement Informatique au CESI de Brest, admissible pour la formation de Concepteur Développeur d'Application pour l'année scolaire 2024-2025.
 Cette année je travaille chez Luxior Assurance 🏢.
@@ -36,8 +36,6 @@ Le projet n'est pas terminé mais il est jouable.
 	<a href="https://github.com/apersis/Gourgandine-Jill"><img src="https://github.com/apersis/Gourgandine-Jill/blob/main/Miniature.PNG?raw=true" width="500"></a>
 </p>
 
-<br>
-
 ## [📦 Vide grenier en ligne *(2024)*](https://github.com/apersis/vide-grenier)
 
 Ceci est le troisième projet scolaire de la deuxième année de Développeur Informatique au CESI. C'est un site web en PHP à debugger, projet réalisé en colaboration avec [Illona Hardy](https://github.com/Illona02) et [Tom Le Roux](https://github.com/LeRouxTom) en avril-mai-juin 2024.
@@ -63,4 +61,17 @@ Le projet est terminé et jouable, vous retrouverez le lien du projet original i
 
 <p align="center">
 	<a href="https://github.com/apersis/tour-monoi"><img src="https://github.com/apersis/tour-monoi/blob/main/CaptureTourDeMonoi.PNG?raw=true" width="500"></a>
+</p>
+
+## [💻 Mon premier site *(2020)*](https://github.com/apersis/premier-site)
+
+Ceci est un projet scolaire de mon année de premiere en cours de NSI. C'est mon premier site web pour découvrir le HTML, le CSS ainsi que le JavaScript.
+
+Il a été codé en novembre 2020. 
+Le site comporte cinq pages presentant mes differentes passions.
+
+Le projet est terminé, vous retrouverez le lien du projet original ici : https://replit.com/@apersis/Pixees.
+
+<p align="center">
+	<a href="https://github.com/apersis/premier-site"><img src="https://github.com/apersis/premier-site/blob/main/ScreenQuizzPixees.PNG?raw=true" width="500"></a>
 </p>
