@@ -1,7 +1,8 @@
 # 👨‍💻 À propos...
 
-Salut 👋 ! Je suis étudiant en 2ème année de Développement Informatique au CESI de Brest, admissible pour la formation de Concepteur Développeur d'Application pour l'année scolaire 2024-2025.
-Cette année je travaille chez Luxior Assurance 🏢.
+Salut 👋 ! Je suis étudiant en formation de Concepteur Développeur d'Applications au CESI de Brest pour l'année scolaire 2024-2025.
+Je suis a la recherche d'une alternance pour l'année 2025-2026.
+Cette année je travaille chez [TechNature](https://www.tech-nature.com) 🏢.
 
 
 # 📭 Contact
@@ -18,7 +19,7 @@ Cette année je travaille chez Luxior Assurance 🏢.
 
 # 🏫 Formation
 
-2022 - 2025 : CESI - Brest / Développeur Informatique / Titre RNCP niveau 5 / Alternance
+2022 - 2025 : CESI - Brest / Concepteur Développeur d'Applications / Titre RNCP niveau 6 / Alternance
 
 2019 - 2022 : Lycée Jean Macé - Lanester / Bac Mathématiques et N.S.I. mention assez bien
 
@@ -26,7 +27,7 @@ Cette année je travaille chez Luxior Assurance 🏢.
 
 ## [🐎 Gourgandine & Jill *(2024)*](https://github.com/apersis/Gourgandine-Jill)
 
-Ceci est mon premier jeu vidéo en 3D avec Unity, projet réalisé en colaboration avec [Allan Bougerab](https://github.com/AllanHyr) et [Tom Le Roux](https://github.com/LeRouxTom) lors de la GameJam du CESI en mars 2024.
+Gourgandine & Jill est mon premier jeu vidéo en 3D avec Unity, projet réalisé en colaboration avec [Allan Bougerab](https://github.com/AllanHyr) et [Tom Le Roux](https://github.com/LeRouxTom) lors de la GameJam du CESI en mars 2024.
 
 C'est un jeu de fermier, on joue un petit personnage du nom de Jill, et le but est de s'occuper du cheval, Gourgandine, en le nourrisant, le carressant et en le baladant en dehors de son air de jeu.
 
@@ -36,9 +37,21 @@ Le projet n'est pas terminé mais il est jouable.
 	<a href="https://github.com/apersis/Gourgandine-Jill"><img src="https://github.com/apersis/Gourgandine-Jill/blob/main/Miniature.PNG?raw=true" width="500"></a>
 </p>
 
+## [🎵 PlayliStats *(2024)*](https://github.com/apersis/PlayliStats)
+
+PlayliStats est un site web en ASP.NET que j'ai réalisé sur mon temps libre. 
+
+Le site fais automatiquement les statistiques de la playlist que vous indiquez, comme par exemple le nombre de chansons par artistes.
+
+Le but du projet était de m'entrainer à utiliser l'API de Spotify et de pouvoir interpreter et afficher ces données par la suite. J'ai utilisé l'ASP.NET car je connais bien le C# et je vais probablement travailler avec cette technologie en alternance.
+
+<p align="center">
+	<a href="https://github.com/apersis/PlayliStats"><img src="https://github.com/apersis/PlayliStats/blob/main/aspnetcoreapp/miniature.PNG?raw=true" width="500"></a>
+</p>
+
 ## [📦 Vide grenier en ligne *(2024)*](https://github.com/apersis/vide-grenier)
 
-Ceci est le troisième projet scolaire de la deuxième année de Développeur Informatique au CESI. C'est un site web en PHP à debugger, projet réalisé en colaboration avec [Illona Hardy](https://github.com/Illona02) et [Tom Le Roux](https://github.com/LeRouxTom) en avril-mai-juin 2024.
+Vide grenier en ligne est le troisième projet scolaire de la deuxième année de Développeur Informatique au CESI. C'est un site web en PHP à debugger, projet réalisé en colaboration avec [Illona Hardy](https://github.com/Illona02) et [Tom Le Roux](https://github.com/LeRouxTom) en avril-mai-juin 2024.
 
 Le principe du site est de concevoir un projet web semblable a un site de e-commerce, afin que les clients puissent mettre en ligne des objets a donner. Ils indiquent leur villes pour que les autre utilisateurs puissent regarder les objets donnés autour d'eux.
 
@@ -50,7 +63,7 @@ Le projet est terminé mais nous n'avons pas pu intégrer toutes les modificatio
 
 ## [🗼 Tours de Monoï *(2021)*](https://github.com/apersis/tour-monoi)
 
-Ceci est un projet scolaire de mon année de terminale en cours de NSI. C'est un petit jeu reprenant le jeu de reflexion et d'eveil des tours de Hanoï.
+Tours de Monoï est un projet scolaire de mon année de terminale en cours de NSI. C'est un petit jeu reprenant le jeu de reflexion et d'eveil des tours de Hanoï.
 
 Il a été codé en Python en decembre 2021. 
 L'utilisateur interragis grace à l'invite de commande, pour l'affichage graphique il est fait grace à la bibliothèque Turtle. 
