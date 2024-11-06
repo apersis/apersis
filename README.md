@@ -1,7 +1,7 @@
 # 👨‍💻 À propos...
 
 Salut 👋 ! Je suis étudiant en formation de Concepteur Développeur d'Applications au CESI de Brest pour l'année scolaire 2024-2025.
-Je suis a la recherche d'une alternance pour l'année 2025-2026.
+Je suis a la recherche d'une alternance pour mon master en 2025-2027.
 Cette année je travaille chez [TechNature](https://www.tech-nature.com) 🏢.
 
 
