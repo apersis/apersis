@@ -31,7 +31,7 @@ Gourgandine & Jill est mon premier jeu vidéo en 3D avec Unity, projet réalisé
 
 C'est un jeu de fermier, on joue un petit personnage du nom de Jill, et le but est de s'occuper du cheval, Gourgandine, en le nourrisant, le carressant et en le baladant en dehors de son air de jeu.
 
-Le projet n'est pas terminé mais il est jouable.
+Le projet est terminé et jouable.
 
 <p align="center">
 	<a href="https://github.com/apersis/Gourgandine-Jill"><img src="https://github.com/apersis/Gourgandine-Jill/blob/main/Miniature.PNG?raw=true" width="500"></a>
@@ -44,6 +44,8 @@ PlayliStats est un site web en ASP.NET que j'ai réalisé sur mon temps libre.
 Le site fais automatiquement les statistiques de la playlist que vous indiquez, comme par exemple le nombre de chansons par artistes.
 
 Le but du projet était de m'entrainer à utiliser l'API de Spotify et de pouvoir interpreter et afficher ces données par la suite. J'ai utilisé l'ASP.NET car je connais bien le C# et je vais probablement travailler avec cette technologie en alternance.
+
+Le projet est en cours
 
 <p align="center">
 	<a href="https://github.com/apersis/PlayliStats"><img src="https://github.com/apersis/PlayliStats/blob/main/aspnetcoreapp/miniature.PNG?raw=true" width="500"></a>
@@ -60,6 +62,14 @@ Le projet est terminé mais nous n'avons pas pu intégrer toutes les modificatio
 <p align="center">
 	<a href="https://github.com/apersis/vide-grenier"><img src="https://github.com/apersis/vide-grenier/blob/develop/CapturePageAccueil.PNG?raw=true" width="500"></a>
 </p>
+
+## [🍷 NegoSud *(2023)*](https://github.com/Loodiie/NegoSud)
+
+NegoSud est le premier projet scolaire de la deuxième année de Développeur Informatique au CESI. C'est un client lourd en JavaFX, un site web en HTML ainsi qu'une API en Java, projet réalisé en colaboration avec [Elody Le Gouyen](https://github.com/Loodiie) entre octobre 2023 et fevrier 2024.
+
+Le principe du projet est de concevoir une API utilisée sur plusieurs applications differentes (web et client lourd). Le sujet est sur une boutique de vin avec un site web sur lequel on peut réaliser des achats. Le client lourd quant à lui est pour gérer les stock de bouteilles.
+
+Le projet est terminé.
 
 ## [🗼 Tours de Monoï *(2021)*](https://github.com/apersis/tour-monoi)
 
